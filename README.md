@@ -2,7 +2,7 @@
 
 ---
 
-## 🚀 Day 1: Labs
+## 🚀 Day 1: Labs FullStack Intro
 **📂 Folder:** `fullstack-intro`
 
 **Details:** added files to the `frontend` and `backend` folder so it can be seen from github.
