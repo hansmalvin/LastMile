@@ -29,3 +29,17 @@
 **Details:** None.
 
 ---
+
+## 🌐 Day 4: Labs Responsive Web Pages using CSS Media Queries
+**📂 Folder:** `responsive-web`
+
+**Details:** Script.js tidak ada isinya diberi isi comment agar muncul di github.
+
+---
+
+## 🌐 Day 5: Labs Javascript Basics
+**📂 Folder:** `responsive-web`
+
+**Details:** none.
+
+---
