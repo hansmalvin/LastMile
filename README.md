@@ -2,6 +2,7 @@
 
 ---
 
+
 ## 🚀 Day 1: Labs FullStack Intro
 **📂 Folder:** `fullstack-intro`
 
@@ -51,12 +52,19 @@
 
 ---
 
-## 🌐 Day 5 Part 2: Labs JavaScript Arrays, Objects & Built-in Methods
-**📂 Folder:** `javascript-array`
+## 🌐 Day 6: Labs Rewrite es5 to es 6
+**📂 Folder:** `rewrite-es5`
 
 **Details:** none.
 
 ---
 
+
+## 🌐 Day 6 Part 2: Labs async flow exercise
+**📂 Folder:** `async-flow-exercise`
+
+**Details:** There are 6 steps and each from each index{fileNum} html files.
+
+---
 
 
