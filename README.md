@@ -15,3 +15,17 @@
 **Details:** None.
 
 ---
+
+## 🌐 Day 3: Labs CSS BASICS
+**📂 Folder:** `css-basics`
+
+**Details:** None.
+
+---
+
+## 🌐 Day 3: Labs CSS ADVANCED
+**📂 Folder:** `css-advanced`
+
+**Details:** None.
+
+---
