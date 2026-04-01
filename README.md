@@ -38,8 +38,25 @@
 ---
 
 ## 🌐 Day 5: Labs Javascript Basics
-**📂 Folder:** `responsive-web`
+**📂 Folder:** `javascript-basics`
 
 **Details:** none.
 
 ---
+
+## 🌐 Day 5 Part 2: Labs JavaScript Arrays, Objects & Built-in Methods
+**📂 Folder:** `javascript-array`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 5 Part 2: Labs JavaScript Arrays, Objects & Built-in Methods
+**📂 Folder:** `javascript-array`
+
+**Details:** none.
+
+---
+
+
+
