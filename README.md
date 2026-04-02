@@ -95,3 +95,20 @@
 
 ---
 
+## 🌐 Day 9: Labs Hook Usage Demo
+**📂 Folder:** `hook-usage-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 9 Part 2: Labs JSX Components Builds
+**📂 Folder:** `react-jsx-lab`
+
+**Details:** none.
+
+---
+
+
+
+
