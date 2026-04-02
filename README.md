@@ -102,13 +102,11 @@
 
 ---
 
-## 🌐 Day 9 Part 2: Labs JSX Components Builds
-**📂 Folder:** `react-jsx-lab`
+## 🌐 Day 9 Part 2: Labs Component hierarchy demo
+**📂 Folder:** `component-hierarchy-demo`
 
 **Details:** none.
 
 ---
-
-
 
 
