@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Website Testing Event Handling Demo</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="container">
+        <h1>Event Handling Demo Testing Container</h1>
+        
+        <form id="testForm">
+            <label for="nameInput">Name:</label>
+            <input type="text" id="nameInput" placeholder="Name:">
+            
+            <label for="pilihWarnaTest">Test Pilih Warna:</label>
+            <select id="pilihWarnaTest">
+                <option value="">Pilih Warna</option>
+                <option value="Red">Merah</option>
+                <option value="Blue">Biru</option>
+                <option value="Green">Hijau</option>
+            </select>
+            
+            <button type="submit" id="submitBtn">Submit</button>
+        </form>
+
+        <button id="clickBtn">Test Button</button>
+
+        <div id="output" class="output">Hasil: </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

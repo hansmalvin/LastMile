@@ -67,4 +67,19 @@
 
 ---
 
+## 🌐 Day 7: Labs Event Handling Demo
+**📂 Folder:** `event-handling-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 7 Part 2: Labs async flow exercise
+**📂 Folder:** `async-flow-exercise`
+
+**Details:** none.
+
+---
+
+
 
