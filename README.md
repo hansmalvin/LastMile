@@ -74,8 +74,8 @@
 
 ---
 
-## 🌐 Day 7 Part 2: Labs async flow exercise
-**📂 Folder:** `async-flow-exercise`
+## 🌐 Day 7 Part 2: Labs API Call Demo Application
+**📂 Folder:** `api-call-demo`
 
 **Details:** none.
 
