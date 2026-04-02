@@ -81,5 +81,11 @@
 
 ---
 
+## 🌐 Day 8: Labs React Components with JSX
+**📂 Folder:** `react-jsx-lab`
+
+**Details:** cd react-jsx-lab if you are using github and not the zip files and then follow the readme.md.
+
+---
 
 

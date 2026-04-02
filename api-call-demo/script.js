@@ -5,7 +5,7 @@ const fetchUsersData = () => {
   fetch("https://jsonplaceholder.typicode.com/users") 
     .then(response => {
       if (!response.ok) {
-        throw new Error("Failed to fetch users data");
+        throw new Error("Unable to fetch users data");
       }
       return response.json();
     })
@@ -31,7 +31,7 @@ const displayUsersData = (users) => {
       <p>Email: ${email}</p>
       <p>Phone: ${phone}</p>
     `;
-    
+
     userContainer.appendChild(userDiv);
   });
 };
