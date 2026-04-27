@@ -1,0 +1,1 @@
+Test kedua file content for node.js demo

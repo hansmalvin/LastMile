@@ -125,13 +125,20 @@
 ---
 
 ## 🌐 Day 11: Labs Node Script Demo
-**📂 Folder:** `node-script-demo`
+**📂 Folder:** `node-demo`
+
+**Details:** none.
+
+---
+ 
+## 🌐 Day 12: Labs Route Handling Demo
+**📂 Folder:** `route-handling-demo`
 
 **Details:** none.
 
 ---
 
-## 🌐 Day 11 Part 2: Labs Component hierarchy demo
+## 🌐 Day 12 Part 2: Labs Component hierarchy demo
 **📂 Folder:** `component-hierarchy-demo`
 
 **Details:** none.
