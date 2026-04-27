@@ -132,15 +132,39 @@
 ---
  
 ## 🌐 Day 12: Labs Route Handling Demo
-**📂 Folder:** `route-handling-demo`
+**📂 Folder:** `route-demo`
 
 **Details:** none.
 
 ---
 
-## 🌐 Day 12 Part 2: Labs Component hierarchy demo
-**📂 Folder:** `component-hierarchy-demo`
+## 🌐 Day 12 Part 2: Labs Error Middleware Demo
+**📂 Folder:** `error-middleware-demo`
 
 **Details:** none.
 
 ---
+
+## 🌐 Day 13: Labs API Endpoint Design
+**📂 Folder:** `api-endpoint-design`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 14: Labs Input Validation Demo
+**📂 Folder:** `input-validation-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 14 Part 2: Labs 
+**📂 Folder:** ``
+
+**Details:** none.
+
+---
+
+
+
