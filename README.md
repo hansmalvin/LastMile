@@ -134,19 +134,19 @@
 ## 🌐 Day 12: Labs Route Handling Demo
 **📂 Folder:** `route-demo`
 
-**Details:** none.
+**Details:** npm init -y npm install express node server.js.
 
 ---
 
 ## 🌐 Day 12 Part 2: Labs Error Middleware Demo
 **📂 Folder:** `error-middleware-demo`
 
-**Details:** none.
+**Details:** npm init -y npm install express node server.js.
 
 ---
 
 ## 🌐 Day 13: Labs API Endpoint Design
-**📂 Folder:** `api-endpoint-design`
+**📂 Folder:** `API Endpoint Design PDF`
 
 **Details:** none.
 
@@ -159,12 +159,18 @@
 
 ---
 
-## 🌐 Day 14 Part 2: Labs 
-**📂 Folder:** ``
+## 🌐 Day 14 Part 2: Labs Error Middleware Demo 
+**📂 Folder:** `error-middleware-demo`
 
 **Details:** none.
 
 ---
 
+## 🌐 Day 15: Labs Data Modeling Demo
+**📂 Folder:** `data-modeling-demo`
+
+**Details:** none.
+
+---
 
 
