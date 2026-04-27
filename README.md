@@ -109,4 +109,31 @@
 
 ---
 
+## 🌐 Day 10: Labs Multi Page Pagination
+**📂 Folder:** `multi-page-pagination`
 
+**Details:** none.
+
+---
+ 
+
+## 🌐 Day 10 Part 2: Labs Form Validation Demo
+**📂 Folder:** `form-validation-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 11: Labs Node Script Demo
+**📂 Folder:** `node-script-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 11 Part 2: Labs Component hierarchy demo
+**📂 Folder:** `component-hierarchy-demo`
+
+**Details:** none.
+
+---
