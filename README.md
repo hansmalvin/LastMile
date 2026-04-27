@@ -180,3 +180,19 @@
 
 ---
 
+## 🌐 Day 17: Labs MongoDB Operator
+**📂 Folder:** `Hans_Malvin_Djojo_MongoDBOperatorsLab pdf`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 18: Labs MongoDB Data Modeling
+**📂 Folder:** `Lab3\_HansMalvinDjojo pdf`
+
+**Details:** none.
+
+---
+
+
+
