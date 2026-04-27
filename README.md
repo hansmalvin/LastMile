@@ -160,9 +160,9 @@
 ---
 
 ## 🌐 Day 14 Part 2: Labs Error Middleware Demo 
-**📂 Folder:** `error-middleware-demo`
+**📂 Folder:** `error-middleware-demo-again`
 
-**Details:** none.
+**Details:** membuat lagi seperti pada labs day 12 akan tetapi menggunakan file error handler.
 
 ---
 
@@ -173,4 +173,10 @@
 
 ---
 
+## 🌐 Day 16: Labs CRUD Command Practice
+**📂 Folder:** `CRUD Command practice pdf`
+
+**Details:** none.
+
+---
 
