@@ -194,5 +194,23 @@
 
 ---
 
+## 🌐 Day 19: Labs Schema Connection Demo
+**📂 Folder:** `schema-demo`
 
+**Details:** none.
 
+---
+
+## 🌐 Day 19 Part 2: Labs Schema Redesign Task
+**📂 Folder:** `Day 19 Part 2 Schema Redesign Task pdf`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 20: Labs Creating MongoDB Indexes
+**📂 Folder:** ``
+
+**Details:** none.
+
+---
