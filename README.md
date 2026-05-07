@@ -229,10 +229,16 @@
 
 ---
 
-## 🌐 Day 21 Part 2: Labs Analyzing Index Performance Impact
-**📂 Folder:** `IndexPerformance_HansMalvinDjojo pdf`
+## 🌐 Day 21 Part 2: Labs Aggregation Stages
+**📂 Folder:** `aggregation_lab_submission pdf`
 
 **Details:** none.
 
 ---
 
+## 🌐 Day 22: Labs Implementing Complex Aggregations
+**📂 Folder:** ``
+
+**Details:** none.
+
+---
