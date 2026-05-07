@@ -209,8 +209,30 @@
 ---
 
 ## 🌐 Day 20: Labs Creating MongoDB Indexes
-**📂 Folder:** ``
+**📂 Folder:** `IndexesLab_HansMalvinDjojo pdf`
 
 **Details:** none.
 
 ---
+
+## 🌐 Day 20 Part 2: Labs Analyzing Index Performance Impact
+**📂 Folder:** `IndexPerformance_HansMalvinDjojo pdf`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 21: Labs Aggregation Pipeline Demo
+**📂 Folder:** `aggregation-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 21 Part 2: Labs Analyzing Index Performance Impact
+**📂 Folder:** `IndexPerformance_HansMalvinDjojo pdf`
+
+**Details:** none.
+
+---
+
