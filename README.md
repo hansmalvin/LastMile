@@ -257,8 +257,8 @@
 
 ---
 
-## 🌐 Day 23 Part 2: Labs
-**📂 Folder:** ``
+## 🌐 Day 23 Part 2: Labs Creating Models and CRUD Operations
+**📂 Folder:** `express-crud-lab.zip`
 
 **Details:** none.
 
