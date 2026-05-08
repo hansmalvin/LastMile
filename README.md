@@ -237,8 +237,35 @@
 ---
 
 ## 🌐 Day 22: Labs Implementing Complex Aggregations
+**📂 Folder:** `ComplexAggregations_HansMalvinDjojo pdf`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 22 Part 2: Labs Analyzing Data Using MongoDB Aggregation Results
+**📂 Folder:** `HansMalvinDjojo_LabAggregations pdf`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 23 : Labs Creating Mongoose Schemas
+**📂 Folder:** `mongoose_schemas_lab.zip`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 23 Part 2: Labs
 **📂 Folder:** ``
 
 **Details:** none.
 
 ---
+
+
+
+
+
+
