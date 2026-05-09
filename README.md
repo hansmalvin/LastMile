@@ -264,8 +264,33 @@
 
 ---
 
+## 🌐 Day 24 : Labs Error Handling & Validation (Conceptual)
+**📂 Folder:** `Day 24 Error Handling & Validation pdf`
 
+**Details:** none.
 
+---
+
+## 🌐 Day 24 Part 2 : Labs Using Middleware and Population in MERN
+**📂 Folder:** `mern-middleware-population-Hans_Malvin_Djojo.zip`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 25 : Labs Implementing MongoDB Transactions
+**📂 Folder:** `HansMalvinDjojo-ImplementingMongoDBTransactions.zip`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 25 Part 2 : Labs 
+**📂 Folder:** ``
+
+**Details:** none.
+
+---
 
 
 
