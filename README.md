@@ -292,5 +292,27 @@
 
 ---
 
+## 🌐 Day 26 : Labs Query Analysis Demo
+**📂 Folder:** `query-analysis-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 27 : Labs MongoDB Atlas – Cloud Setup, Clusters & Security
+**📂 Folder:** `HansMalvinDjojo_MongoDBAtlasLab pdf`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 28 : Labs Data Flow Walkthrough (MERN Stack)
+**📂 Folder:** `data-flow-walkthrough`
+
+**Details:** none.
+
+---
+
+
 
 
