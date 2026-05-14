@@ -313,6 +313,20 @@
 
 ---
 
+## 🌐 Day 29 : Labs Authentication Basics – JWT & Authorization
+**📂 Folder:** `jwt-auth-lab`
+
+**Details:** none.
+
+---
+
+## 🌐 Day 30 : Labs End-to-End MERN Application Architecture & Best Practices
+**📂 Folder:** `mern-task-manager zip`
+
+**Details:** none.
+
+---
+
 
 
 
