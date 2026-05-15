@@ -327,6 +327,33 @@
 
 ---
 
+## 🌐 Other Labs 1 : Labs Debug Faulty Code
+**📂 Folder:** `debug-faulty-code belom`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 2 : Labs API Data Rendering
+**📂 Folder:** `api-data-rendering`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 3 : Labs Data Destructuring Tasks
+**📂 Folder:** `data-destructuring-tasks`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 4 : Labs Data Modeling Demo
+**📂 Folder:** `data-modeling-demo-2`
+
+**Details:** none.
+
+---
 
 
 
