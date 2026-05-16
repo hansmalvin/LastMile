@@ -376,4 +376,34 @@
 
 ---
 
+## 🌐 Other Labs 8 : Labs Refactor components
+**📂 Folder:** `refactor-components`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 9 : Labs Refactor Inefficient JavaScript Code
+**📂 Folder:** `refactor-inefficient`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 10 : Labs State Flow demo
+**📂 Folder:** `state-flow-demo`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 11 : Labs
+**📂 Folder:** ``
+
+**Details:** none.
+
+---
+
+
+
 
