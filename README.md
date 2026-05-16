@@ -355,5 +355,25 @@
 
 ---
 
+## 🌐 Other Labs 5 : Labs Dynamic list rendering
+**📂 Folder:** `dynamic-list-rendering`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 6 : Labs JavaScript Control Flow – Conditions, Loops, Functions
+**📂 Folder:** `js-control-flow`
+
+**Details:** none.
+
+---
+
+## 🌐 Other Labs 7 : Labs Loader & Error UI Demo
+**📂 Folder:** `loader-error-demo`
+
+**Details:** none.
+
+---
 
 
