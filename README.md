@@ -328,7 +328,7 @@
 ---
 
 ## 🌐 Other Labs 1 : Labs Debug Faulty Code
-**📂 Folder:** `debug-faulty-code belom`
+**📂 Folder:** `debug-faulty-code`
 
 **Details:** none.
 
@@ -397,13 +397,19 @@
 
 ---
 
-## 🌐 Other Labs 11 : Labs
-**📂 Folder:** ``
+## 🌐 Other Labs 11 : Labs Managing State and Props in react
+**📂 Folder:** `state-props-lab zip`
 
 **Details:** none.
 
 ---
 
+## 🌐 Other Labs 12 : Labs Using Hooks and Component Patterns
+**📂 Folder:** `HansMalvinDjojo_HooksPatternsLab.zip`
+
+**Details:** none.
+
+---
 
 
 

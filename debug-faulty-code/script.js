@@ -1,73 +1,45 @@
-// STEP 2
-console.log("=== Array Destructuring ===");
+//Syntax Error Fix
+// console.log("Hello World"
+console.log("Hello World"); // Fix
 
-const inventory = ["Excalibur", "Iron Shield", "Health Potion", "Dungeon Map"];
+//Runtime Error Fix
+let a;
+// console.log(a.toUpperCase()); // Error
+a = "hello";
+console.log(a.toUpperCase()); // Fixed example
 
-const [weapon, offhand] = inventory;
-console.log("Weapon:", weapon); 
-console.log("Offhand:", offhand); 
+//1: Logic Error Fix
+let num = "10";
+// console.log(num + 5); // Wrong Outputs "105"
+num = Number(num);
+console.log(num + 5); // Fixed Output 15
 
-const [slot1, , slot3] = inventory;
-console.log("Slot 1:", slot1); 
-console.log("Slot 3 (Consumable):", slot3); 
+//2: Function Error Fix
+function greet(name) {
+    return `Hello, ${name}!`;
+}
+console.log(greet("Alice")); // Right example
 
-
-// STEP 3
-console.log("=== Object Destructuring ===");
-
-const player = {
-  username: "ShadowNinja",
-  level: 55,
-  guild: "The Night Owls"
-};
-
-const { username, level } = player;
-console.log("Username:", username);
-console.log("Level:", level);
-
-
-// STEP 4
-console.log("=== Advanced Destructuring ===");
-
-const gameQuest = {
-  questId: 101,
-  details: {
-    title: "Defeat the Fire Dragon",
-    rewards: {
-      gold: 5000,
-      xp: 1200
-    }
-  }
-};
-
-const {
-  details: {
-    title,
-    rewards: { gold }
-  }
-} = gameQuest;
-
-console.log("Quest Title:", title);
-console.log("Gold Reward:", gold);
-
-const { status = "In Progress" } = gameQuest;
-console.log("Quest Status:", status);
-
-const { username: alias = "Guest" } = player;
-console.log("Player Alias:", alias);
-
-
-// STEP 5
-console.log("=== Function Destructuring ===");
-
-function announcePlayer({ username, guild }) {
-  console.log(`Attention! ${username} from ${guild} has entered the town!`);
+//3: Array Access Error Fix
+let fruits = ["apple", "banana"];
+// console.log(fruits[2].toUpperCase()); // Error example
+if(fruits[2]) {
+    console.log(fruits[2].toUpperCase());
+} else {
+    console.log("No fruit at index 2"); // The right one
 }
 
-announcePlayer(player);
-
-function spawnCharacter([x, y, z]) {
-  console.log(`Character spawned at coordinates -> X: ${x}, Y: ${y}, Z: ${z}`);
+//4: Loop Debugging
+for(let i = 0; i < 3; i++) {
+    console.log(`Loop iteration ${i+1}`); // Fixed prints 1,2,3
 }
 
-spawnCharacter([150, 45, 12]);
+//5: Conditional Fix
+let score = 85;
+if(score >= 80) {
+    console.log("Grade: A");
+} else if(score >= 70) {
+    console.log("Grade: B");
+} else {
+    console.log("Grade: C");
+}
