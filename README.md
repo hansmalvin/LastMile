@@ -411,5 +411,16 @@
 
 ---
 
+## 🌐 Other Labs 13 : Labs Implementing Routing and Forms in React
+**📂 Folder:** `react-routing-forms.zip`
 
+**Details:** none.
 
+---
+
+## 🌐 Other Labs 14 : Labs Integrating APIs with React UI
+**📂 Folder:** `api-integration-lab`
+
+**Details:** none.
+
+---

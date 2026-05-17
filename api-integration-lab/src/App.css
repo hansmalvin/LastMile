@@ -1,0 +1,24 @@
+.App {
+  text-align: center;
+  padding: 20px;
+  max-width: 600px;
+  margin: 0 auto;
+}
+
+.App h1 {
+  color: #333;
+}
+
+.User {
+  margin: 10px 0;
+  padding: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #f9f9f9;
+  text-align: left;
+}
+
+.User h3 {
+  margin-top: 0;
+  color: #0056b3;
+}
